@@ -44,3 +44,5 @@ Avant d'exécuter ce projet, il est nécessaire d'avoir :
 - **NetBeans ou un autre IDE compatible avec Java.**
 
 https://github.com/user-attachments/assets/29c82baa-04a0-4a41-890b-2eee9f2e616c
+
+https://github.com/user-attachments/assets/fe7c6002-e13e-4c55-ba91-5bfe6708da03
