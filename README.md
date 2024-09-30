@@ -42,3 +42,5 @@ Avant d'exécuter ce projet, il est nécessaire d'avoir :
 - **MySQL :** Pour le stockage des données des développeurs.
 - **Pilote JDBC MySQL :** Pour établir la connexion entre Java et MySQL.
 - **NetBeans ou un autre IDE compatible avec Java.**
+
+https://github.com/user-attachments/assets/29c82baa-04a0-4a41-890b-2eee9f2e616c
